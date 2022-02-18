@@ -4,13 +4,90 @@ title: Calendar
 uid: 4d45853b-f125-0e83-635b-834d0b76cec6
 ---
 
-| # OF LECTURES | TOPICS |
-| --- | --- |
-| 3 | Basic Definitions, the Intersection Poset and the Characteristic Polynomial |
-| 4.5 | Properties of the Intersection Poset and Graphical Arrangements |
-| 3.5 | Matroids and Geometric Lattices |
-| 4.5 | Broken Circuits, Modular Elements, and Supersolvability |
-| 10 | Finite Fields |
-| 3.5 | Random Walks on Regions |
-| 5 | Separating Hyperplanes |
-| 3 | Tutte Polynomial
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+# OF LECTURES
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Definitions, the Intersection Poset and the Characteristic Polynomial
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4.5
+{{< tdclose >}}
+{{< tdopen >}}
+Properties of the Intersection Poset and Graphical Arrangements
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3.5
+{{< tdclose >}}
+{{< tdopen >}}
+Matroids and Geometric Lattices
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4.5
+{{< tdclose >}}
+{{< tdopen >}}
+Broken Circuits, Modular Elements, and Supersolvability
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Finite Fields
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3.5
+{{< tdclose >}}
+{{< tdopen >}}
+Random Walks on Regions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Separating Hyperplanes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Tutte Polynomial
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

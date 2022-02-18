@@ -21,12 +21,105 @@ Further gradations are indicated by + and -. Thus a \[3-\] problem is about the 
 
 The problem sets are due during the lecture noted in the table below.
 
-| ASSIGNMENTS | INSTRUCTIONS | DUE DATES |
-| --- | --- | --- |
-| Problem Set 1 ([PDF]({{< baseurl >}}/resources/prob1)) | Hand in two from 1.1-1.7. Ideally you should work on all seven problems, but you should hand in only your two "best" problems, i.e., the ones whose solutions you feel are the most difficult and/or interesting | Lecture 7 |
-| Problem Set 2 ([PDF]({{< baseurl >}}/resources/prob2)) | Hand in two from 2.1-2.10 | Lecture 11 |
-| Problem Set 3 ([PDF]({{< baseurl >}}/resources/prob3)) | Hand in two from 3.1-3.7, 4.1, 4.3, 4.10-4.11, 4.20 | Lecture 16 |
-| Problem Set 4 ([PDF]({{< baseurl >}}/resources/prob4)) | Hand in one from 4.4-4.9, 4.12-4.19, and one from 5.1, 5.4, 5.6-5.9 | Lecture 22 |
-| Problem Set 5 ([PDF]({{< baseurl >}}/resources/prob5)) | Hand in two from 5.10-5.18, 5.24-5.29 | Lecture 27 |
-| Problem Set 6 ([PDF]({{< baseurl >}}/resources/prob6)) | Hand in 6.1 and one further problem from 6.3-6.8 | Lecture 32 |
-| Problem Set 7 | Make up two problems of your own and hand them in (with solutions). Problems may have multiple parts. Some of the parts can be unsolved (or, at least, you were unable to solve them), but each of the two problems should have at least one part with a (nontrivial) solution included. The problems can be on any material covered during the course | Lecture 37
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTIONS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 1 ([PDF]({{< baseurl >}}/resources/prob1))
+{{< tdclose >}}
+{{< tdopen >}}
+Hand in two from 1.1-1.7. Ideally you should work on all seven problems, but you should hand in only your two "best" problems, i.e., the ones whose solutions you feel are the most difficult and/or interesting
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 2 ([PDF]({{< baseurl >}}/resources/prob2))
+{{< tdclose >}}
+{{< tdopen >}}
+Hand in two from 2.1-2.10
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 3 ([PDF]({{< baseurl >}}/resources/prob3))
+{{< tdclose >}}
+{{< tdopen >}}
+Hand in two from 3.1-3.7, 4.1, 4.3, 4.10-4.11, 4.20
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 4 ([PDF]({{< baseurl >}}/resources/prob4))
+{{< tdclose >}}
+{{< tdopen >}}
+Hand in one from 4.4-4.9, 4.12-4.19, and one from 5.1, 5.4, 5.6-5.9
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 22
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 5 ([PDF]({{< baseurl >}}/resources/prob5))
+{{< tdclose >}}
+{{< tdopen >}}
+Hand in two from 5.10-5.18, 5.24-5.29
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 27
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 6 ([PDF]({{< baseurl >}}/resources/prob6))
+{{< tdclose >}}
+{{< tdopen >}}
+Hand in 6.1 and one further problem from 6.3-6.8
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 32
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 7
+{{< tdclose >}}
+{{< tdopen >}}
+Make up two problems of your own and hand them in (with solutions). Problems may have multiple parts. Some of the parts can be unsolved (or, at least, you were unable to solve them), but each of the two problems should have at least one part with a (nontrivial) solution included. The problems can be on any material covered during the course
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 37
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
