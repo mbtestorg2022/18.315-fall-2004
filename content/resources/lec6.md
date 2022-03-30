@@ -9,6 +9,7 @@ description: These lecture notes on hyperplane arrangements are based on a lectu
   of hyperplane arrangements.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/863dd541612a568952d67a0beb63bb12_lec6.pdf
 file_type: application/pdf
+parent_uid: fb62c3b5-bca3-8fe3-986d-5bccb271c097
 resourcetype: Document
 title: lec6.pdf
 uid: 863dd541-612a-5689-52d6-7a0beb63bb12
